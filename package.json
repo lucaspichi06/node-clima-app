@@ -1,0 +1,26 @@
+{
+  "name": "clima-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaspichi06/node-clima-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucaspichi06/node-clima-app/issues"
+  },
+  "homepage": "https://github.com/lucaspichi06/node-clima-app#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.2",
+    "inquirer": "^8.2.4"
+  }
+}
